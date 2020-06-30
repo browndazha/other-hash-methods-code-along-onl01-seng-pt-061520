@@ -10,5 +10,4 @@ groceries = {
 
 def get_the_values(groceries)
   groceries.values.flatten
-=> ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken", "steak", "salmon", "rice", "pasta"]
 end
